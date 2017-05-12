@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":false,"name":"VillageStart","order":1,"parentId":0,"scrollX":3184,"scrollY":966.6666666666666},
+{"id":2,"expanded":false,"name":"Armurerie","order":2,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":3,"expanded":false,"name":"Maison4","order":9,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":4,"expanded":false,"name":"Maison5","order":10,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":5,"expanded":false,"name":"Auberge","order":3,"parentId":1,"scrollX":1178,"scrollY":638},
+{"id":6,"expanded":false,"name":"AubergeEtage","order":4,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":7,"expanded":false,"name":"Eglise","order":5,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":8,"expanded":false,"name":"Maison1","order":6,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":9,"expanded":false,"name":"Maison2","order":7,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":10,"expanded":false,"name":"Maison3","order":8,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":11,"expanded":false,"name":"Mairie","order":11,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":12,"expanded":false,"name":"Forêt obscure et sombre","order":13,"parentId":0,"scrollX":656,"scrollY":1014.6666666666666},
+{"id":13,"expanded":false,"name":"Ecole","order":12,"parentId":1,"scrollX":1000,"scrollY":654},
+{"id":14,"expanded":false,"name":"Transition Forêt Village","order":14,"parentId":0,"scrollX":1000,"scrollY":654},
+{"id":15,"expanded":false,"name":"Coline du destin","order":15,"parentId":0,"scrollX":656,"scrollY":436}
+]
